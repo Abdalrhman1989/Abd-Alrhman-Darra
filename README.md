@@ -1,7 +1,7 @@
 # Hi there, I'm Abd Alrhman Aldarra! 👋
 
 ## 🌟 About Me
-I'm a passionate and creative individual focused on web development, branding, and graphic communication. I have a background in multimedia design and film & TV production, and I'm currently seeking an internship to complete my education in web development. I thrive on building brand identities and developing web-based solutions.
+I'm a passionate and creative individual focused on web development, branding, and graphic communication. I have a background in multimedia design and film & TV production. I thrive on building brand identities and developing web-based solutions. I love coding and technologies, flying drones, and exploring new languages and cultures.
 
 [![Watch my video](https://img.youtube.com/vi/4cAZ8Ee2ydk/maxresdefault.jpg)](https://www.youtube.com/live/4cAZ8Ee2ydk?si=bmQFWUyrWgpG-zTL) <!-- Replace the URL if necessary -->
 
@@ -22,8 +22,12 @@ I am currently in the final stages of my top-up education in web development at 
 - **Bachelor Degree in Media Science** (Incomplete) - Damascus University
 
 ## 💼 Professional Experience
+- **Web Developer Intern** at [Your Current Internship Company], [Location]. Working on developing and maintaining web applications, enhancing user experience, and implementing responsive design.
 - **Web Developer** at uBreak WeFix, Odense, Denmark. Developed WooCommerce platform and website.
 - **Film Producer** at IWCS, Kvistgård, Denmark. Worked on animation, design, and production of promotional materials and tutorials.
+- **Freelance Graphic Designer**
+- **Freelance Web Developer**
+- **Freelance Animator**
 
 ## 📫 How to Reach Me
 - Email: [abdalrhmanaldarra@gmail.com](mailto:abdalrhmanaldarra@gmail.com)
@@ -42,11 +46,13 @@ I am currently in the final stages of my top-up education in web development at 
 - Danish
 - English
 - Arabic
+- Turkish
 
 ## 🎈 Interests
 - Crossfit
 - Tennis
 - Gardening
+- Drone Flying
 
 ---
 
