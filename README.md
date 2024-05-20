@@ -6,15 +6,16 @@ I'm a passionate and creative individual focused on web development, branding, a
 [![Watch my video](https://img.youtube.com/vi/4cAZ8Ee2ydk/maxresdefault.jpg)](https://www.youtube.com/live/4cAZ8Ee2ydk?si=bmQFWUyrWgpG-zTL) <!-- Replace the URL if necessary -->
 
 ## 💡 Skills & Technologies
-- **Web & Backend Development:** HTML, CSS, JavaScript, Vue.js, React.js, ASP.NET, C#, Python, Django, Flask, Flutter, Dart, Firebase, MongoDB
-- **Design & Multimedia:** Adobe After Effects, Premiere Pro, Photoshop, Illustrator
+- **Web & Backend Development:** HTML, CSS, JavaScript, Vue.js, React.js, ASP.NET, C#, Python, Django, Flask, Dart, Flutter, Next.js, Express.js, Node.js
+- **Design & Multimedia:** Adobe After Effects, Premiere Pro, Photoshop, Illustrator, Adobe Animator
 - **Database Management:** SQL, Firebase, MongoDB
 - **Other Skills:** Team Collaboration, Communication, Problem-Solving
 
 ## 📚 Current Learning Goals
-I am currently enhancing my skills in **React.js** and **Vue.js**, exploring advanced **Python** applications in web development with **Django** and **Flask**, and diving deeper into **UI/UX design principles**.
+I am currently in the final stages of my top-up education in web development at UCL Odense, Denmark, which I will complete in December. I am continually improving my skills in React and other technologies.
 
 ## 🎓 Education
+- **Web Development** (Expected completion December 2023) - UCL Odense, Denmark
 - **Multimedia Design** - Zealand Akademi, Slagelse, Denmark
 - **Film & TV Production Education** - Next Uddannelse CPH, København, Denmark
 - **Studentereksamen** - VUC FYN, Odense, Denmark
@@ -23,9 +24,6 @@ I am currently enhancing my skills in **React.js** and **Vue.js**, exploring adv
 ## 💼 Professional Experience
 - **Web Developer** at uBreak WeFix, Odense, Denmark. Developed WooCommerce platform and website.
 - **Film Producer** at IWCS, Kvistgård, Denmark. Worked on animation, design, and production of promotional materials and tutorials.
-
-## 🌱 Currently Seeking
-An **internship** for my final semester to fulfill my educational requirements and to apply and expand my knowledge and skills in **web development**. I am looking for an environment where my recent education in web development can be put to practical use and further developed.
 
 ## 📫 How to Reach Me
 - Email: [abdalrhmanaldarra@gmail.com](mailto:abdalrhmanaldarra@gmail.com)
