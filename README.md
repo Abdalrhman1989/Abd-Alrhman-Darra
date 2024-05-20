@@ -15,7 +15,7 @@ I'm a passionate and creative individual focused on web development, branding, a
 I am currently in the final stages of my top-up education in web development at UCL Odense, Denmark, which I will complete in December. I am continually improving my skills in React and other technologies.
 
 ## 🎓 Education
-- **Web Development** (Expected completion December 2023) - UCL Odense, Denmark
+- **Web Development** (Expected completion December 2024) - UCL Odense, Denmark
 - **Multimedia Design** - Zealand Akademi, Slagelse, Denmark
 - **Film & TV Production Education** - Next Uddannelse CPH, København, Denmark
 - **Studentereksamen** - VUC FYN, Odense, Denmark
