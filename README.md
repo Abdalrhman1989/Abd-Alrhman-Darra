@@ -22,7 +22,7 @@ I am currently in the final stages of my top-up education in web development at 
 - **Bachelor Degree in Media Science** (Incomplete) - Damascus University
 
 ## 💼 Professional Experience
-- **Web Developer Intern** at [Your Current Internship Company], [Location]. Working on developing and maintaining web applications, enhancing user experience, and implementing responsive design.
+- **Web Developer Intern** at [AirPlate], [Odense-Denamrk]. Working on developing and maintaining web applications, enhancing user experience, and implementing responsive design.
 - **Web Developer** at uBreak WeFix, Odense, Denmark. Developed WooCommerce platform and website.
 - **Film Producer** at IWCS, Kvistgård, Denmark. Worked on animation, design, and production of promotional materials and tutorials.
 - **Freelance Graphic Designer**
